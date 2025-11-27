@@ -209,7 +209,7 @@ export default function HomePage() {
                       className="flex-1 flex items-center justify-center space-x-2"
                     >
                       <Heart className="h-4 w-4" />
-                      <span>J'aime</span>
+                      <span>J&#39;aime</span>
                     </Button>
                     <Button
                       variant="ghost"
